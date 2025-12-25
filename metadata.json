@@ -1,0 +1,8 @@
+{
+  "name": "OcuTrack: Eye Med Assistant",
+  "description": "A calm and simple eye medication tracker designed for safety and ease of use, featuring AI-powered label analysis and voice assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
